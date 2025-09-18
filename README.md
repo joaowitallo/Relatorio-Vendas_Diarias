@@ -29,7 +29,7 @@ Este repositório contém um **relatório de acompanhamento diário de vendas**,
 ---
 
 ### 📌 Produto Menos Vendido (identifica o item com menor volume de vendas)
-![DAX Produto Menos Vendido](/.png)
+![DAX Produto Menos Vendido](/DAXMenosvendido.png)
 
 ---
 
